@@ -6,7 +6,7 @@ DDoS Attack là cuộc tấn công từ chối dịch vụ phân tán, nhằm ph
 
 Để thực hiện DDoS, phải sử dụng nhiều hệ thống máy tính cùng lúc truy cập vào server để làm tăng đột biến lưu lượng. Có thể liên tưởng tấn công DDoS như một vụ ùn tắc giao thông bất ngờ làm tắc nghẽn đường phố, ngăn cản các phương tiện khác di chuyển đến đích.
 
-![DDoS Attack](/assets/img/ddos_attack_traffic_metaphor "DDoS Attack")
+![DDoS Attack](/assets/img/ddos_attack_traffic_metaphor.png "DDoS Attack")
 
 ## DDoS Attack hoạt động như thế nào?
 

@@ -32,7 +32,7 @@ Theo định nghĩa, CDN là một mạng lưới nhiều server được liên 
 
 Những IXPs này là những vị trí chính để các nhà cung cấp Internet kết nối với nhau, từ đó cung cấp cho nhau các quyền truy cập đến các nguồn truy cập trong các mạng khác nhau của họ. Bằng cách kết nối đến các vị trí có tốc độ và tính kết nối cao này, một nhà cung cấp CDN có thể giảm chi phí và thời gian khi phân phối dữ liệu ở tốc độ cao.
 
-![Reserve Proxy](/assets/img/cdn_distributed_server_map.png "Reserve Proxy")
+![CDN distributed](/assets/img/cdn_distributed_server_map.png "CDN distributed")
 
 Ngoài đặt máy chủ tại các IXPs, CDN còn thực hiện một số tối ưu hoá trong việc truyền dữ liệu tiêu chuẩn giữa clien và server. CDN đặt các trung tâm dữ liệu (Data Center) tại các vị trí chiến lược trên toàn cầu, tăng cường bảo mật, được thiết kế để tồn tại khi xuất hiện nhiều loại lỗi cũng như bị tắc nghẽn internet.
 

@@ -70,3 +70,5 @@ Dưới đây là một số lợi ích khi sử dụng reserve proxy:
 Một số công ty tự xây dựng `reserve proxy` cho chính họ, nhưng việc này tốn rất nhiều nguồn nhân lực từ kỹ sư phần cứng đến phần mềm, cũng như chi phí đầu tư cho máy móc thiết bị. Một trong những cách dễ dàng và tốn ít chi phí nhất mà vẫn tận dụng được các lợi ích của reserve proxy đó là đăng ký một `CDN service`.
 
 Ví dụ, `Cloudfare CDN` cung cấp tất cả những tính năng bảo mật và hiệu năng ở trên, cũng như một số tính năng khác.
+
+**_Link refer: (https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy//)_**

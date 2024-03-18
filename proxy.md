@@ -47,7 +47,7 @@ Một lần nữa, để minh hoạ chúng ta đặt tên cho các máy tính c�
 
 <h4 style="text-align: center;">Forward Proxy Flow</h4>
 
-![Reserve Proxy](/assets/img/reserve_proxy_flow.png "Reserve Proxy")
+![Reserve Proxy](/assets/img/reverse_proxy_flow.png "Reserve Proxy")
 
 Thông thường, tất cả các request từ D sẽ gửi trực tiếp đến F, và F sẽ gửi các phản hồi ngược lại cho D. Với một reserve proxy, tất cả các request từ D sẽ gửi đến E, E sẽ gửi các request đến F và nhận các response từ F. E sẽ chuyển các response về lại cho D.
 
